@@ -176,6 +176,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler (~> 1.17.3)
   byebug
   capybara (>= 2.15)
   coffee-rails (~> 4.2)
